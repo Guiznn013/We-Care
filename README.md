@@ -11,5 +11,5 @@
 </ul>
 <br>
 <br>
-<img src="" alt="projeto-we-care-mobile-vision" />
-<img src="" alt="projeto-we-care-computer-vision" />
+<img src="https://github.com/Guiznn013/We-Care/blob/master/img/we-care-computer-vision-img.png?raw=true" alt="projeto-we-care-computer-vision" />
+<img src="https://github.com/Guiznn013/We-Care/blob/master/img/we-care-mobile-vision-img.png?raw=true" alt="projeto-we-care-mobile-vision" />
